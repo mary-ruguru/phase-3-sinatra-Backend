@@ -3,7 +3,9 @@
 ## Learning Goals
 
 - Build a web basic API with Sinatra and Active Record to support a React
-  frontend
+  frontend    https://github.com/mary-ruguru/phase-3-react-frontend
+  
+  
 
 ## Introduction
 
